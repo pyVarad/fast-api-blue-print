@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic-settings
+sqlmodel
+alembic
+asyncpg
+rich
+asgi-correlation-id
+python-json-logger
+aiosqlite
